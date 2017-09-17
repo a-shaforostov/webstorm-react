@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="notifications" type="JavaScript" />
+      <mapping ext="exe" type="Native" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
