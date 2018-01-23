@@ -5,6 +5,7 @@
       <mapping ext="exe" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
