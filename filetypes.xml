@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="PageHeader" type="JSX Harmony" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
