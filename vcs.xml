@@ -14,6 +14,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="andpr99" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:its-skr/docker-openvpn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\skr2" />
