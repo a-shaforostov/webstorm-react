@@ -42,9 +42,13 @@
           <option name="url" value="https://github.com/its-skr/rv-migr.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/its-skr/skr-react-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\skr2" />
+    <option name="cloneParentDir" value="D:\work_rep_sk" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
