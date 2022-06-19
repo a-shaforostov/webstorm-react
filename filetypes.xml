@@ -4,6 +4,7 @@
       <mapping pattern="addDevice/index" type="JavaScript" />
       <mapping pattern="client-26-01" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
