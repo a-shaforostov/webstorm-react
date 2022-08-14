@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="addDevice/index" type="JavaScript" />
       <mapping pattern="client-26-01" type="PLAIN_TEXT" />
+      <mapping ext="pas" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern="redux" type="TypeScript" />
       <mapping pattern="index" type="TypeScript" />
