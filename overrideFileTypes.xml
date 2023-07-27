@@ -1,0 +1,5 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://C:/skr2/docker-openvpn/config/server.conf" />
+  </component>
+</application>
